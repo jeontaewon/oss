@@ -8,7 +8,7 @@ int main()
     printf("Second OSS Code\n");
     printf("메인 브랜치에 코드를 추가하였음");
 
-    for(int i = 0; i < 10; i++){
+    for(int i = 0; i < 10; i++){        //이거 왜 conflict 안남?
         printf("Test 브랜치\n");
     }
 
